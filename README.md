@@ -33,6 +33,10 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
 # Visualization of complete system :    
 ![visual](images/vis.gif)    
 
+
+# Getting started :       
+[Click]() here to get started locally on your system.
+
 ## Some snaps :     
 ![images/gui1.JPG](images/gui1.JPG)
 ![images/gui2.JPG](images/gui2.JPG)
