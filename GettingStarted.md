@@ -42,4 +42,4 @@ model = load_model('../Desktop/classifier.pt')
 * Your messaging service should  start and also you now see Message_Id printed on your terminal.    
 
 
-[Note : You can use sample images in the folder sampleimages which is taken from the original test dataset to test the system]
+[Note : You can use sample images in the folder [sampleimages](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/tree/master/sampleimages) which is taken from the original test dataset to test the system]
