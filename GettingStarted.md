@@ -39,4 +39,7 @@ model = load_model('../Desktop/classifier.pt')
 * Then, uncomment following lines in 'blindness.py'   
 ```#from send_sms import *```
 ```#send(value, classes)```   
-* Your messaging service should  start and also you now see Message_Id printed on your terminal.
+* Your messaging service should  start and also you now see Message_Id printed on your terminal.    
+
+
+[Note : You can use sample images in the folder sampleimages which is taken from the original test dataset to test the system]
