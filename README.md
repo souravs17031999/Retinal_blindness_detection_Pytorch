@@ -44,4 +44,10 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
 ![images/sms.JPG](images/sms.JPG)       
 
  
+ # Future Prospect :    
+ * My next goal is to develop this into WebApp (probably using some light weight model as resnet models are heavy).   
+ * Next goal will be using encryption techniques to achieve not only high accuracy but also high level of privacy in terms of differentially private basis and use technqiues such as Federated learning and Secure Multi party computation for privacy preserving deep learning classification.
+ Btw, i have already made one project using federated learning on classification task , [check out here](https://github.com/souravs17031999/Federatedencryption-showcase).
+ Acheiving a level of privacy is also very important task in medical datasets so that there can be factor of trust established between different stakeholders using the system.   
+ 
 [Note : The training files in this repo is only shown after final training as it took around more than 100 epochs to reach 97% accuracy and a lot of compute power and time.]
