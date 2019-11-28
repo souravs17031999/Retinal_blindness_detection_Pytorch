@@ -19,6 +19,10 @@ I also used Twilio API to Make SMS connectivity to patients possible in case the
 | Frontend development | Tkinter (Python GUI toolkit) |
 | Database connectivity | HeidiSQL (MySQL server) |
 | Programming Languages | Python, SQL |
-| API | Twilio cloud API|   
+| API | Twilio cloud API|      
+
+# Data visualization :     
+Input data (raw) is like this -     
+[!visual1](images/visual1.JPG)
 
 
