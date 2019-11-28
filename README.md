@@ -25,4 +25,6 @@ I also used Twilio API to Make SMS connectivity to patients possible in case the
 Input data (raw) is like this -     
 ![visual1](images/visual1.JPG)
 
+# Resnet152 model summary :     
+![mat](images/mat.png)
 
