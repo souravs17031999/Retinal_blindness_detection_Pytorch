@@ -41,5 +41,7 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
 ![images/gui1.JPG](images/gui1.JPG)
 ![images/gui2.JPG](images/gui2.JPG)
 ![images/gui3.JPG](images/gui3.JPG)
-![images/sms.JPG](images/sms.JPG)
+![images/sms.JPG](images/sms.JPG)       
+
  
+[Note : The training files in this repo is only shown after final training as it took around more than 100 epochs to reach 97% accuracy and a lot of compute power and time.]
