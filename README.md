@@ -61,4 +61,4 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
 [Note : The training files in this repo is only shown after final training as it took around more than 100 epochs to reach 97% accuracy and a lot of compute power and time.]     
 
 
-⭐️ this repo if you liked it !
+⭐️ this Project if you liked it !
