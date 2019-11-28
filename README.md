@@ -23,6 +23,6 @@ I also used Twilio API to Make SMS connectivity to patients possible in case the
 
 # Data visualization :     
 Input data (raw) is like this -     
-[!visual1](images/visual1.JPG)
+![visual1](images/visual1.JPG)
 
 
