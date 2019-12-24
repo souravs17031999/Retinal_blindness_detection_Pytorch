@@ -49,7 +49,8 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
  * Next goal will be using encryption techniques to achieve not only high accuracy but also high level of privacy in terms of differentially private basis and use technqiues such as Federated learning and Secure Multi party computation for privacy preserving deep learning classification.
  Btw, i have already made one project using federated learning on classification task , [check out here](https://github.com/souravs17031999/Federatedencryption-showcase).
  Acheiving a level of privacy is also very important task in medical datasets so that there can be factor of trust established between different stakeholders using the system.   
- 
+ * Some ideas for concurrency control has to be implemented properly using some kind of locks defined in MySQL so that multiple users can use the system at the same time when deployed on web.
+ (Otherwise, locally you can run the executable file multiple times to open and run the GUI and it works fine).      
  
 # Navigating the project :  
 * [Check out the training code here](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/blob/master/training.ipynb)  
@@ -57,5 +58,9 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
 * [Check out the executable file (for running GUI)](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/blob/master/blindness.py)    
 * [check out the model executable file (for loading to get inference locally)](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/blob/master/model.py)    
 * [check out the Twilio API executable file (to get SMS for inference)](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/blob/master/send_sms.py)
-* [for getting pre-trained weights for this model, check out getting started section here](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/blob/master/GettingStarted.md)      
-[Note : The training files in this repo is only shown after final training as it took around more than 100 epochs to reach 97% accuracy and a lot of compute power and time.]
+* [for getting pre-trained weights for this model, check out getting started section here](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/blob/master/GettingStarted.md)       
+
+[Note : The training files in this repo is only shown after final training as it took around more than 100 epochs to reach 97% accuracy and a lot of compute power and time.]     
+
+
+⭐️ this Project if you liked it !

@@ -23,7 +23,7 @@ connection = sk.connect(
 )
 ```
 * Now, your DB server must be connected.   
-* Finally, you also want 'classifier.pt' file which contains model's dictionery required when it is to be loaded.    
+* Finally, you also want 'classifier.pt' file which contains model's dictionary required when it is to be loaded.    
 (since, it's a large file you can mail me if you want that file at this id : souravs_1999@rediffmail.com) and put that file in the same directory and then modify the path accordingly in the 'model.py' file.
 ```
 model = load_model('../Desktop/classifier.pt')
@@ -39,4 +39,7 @@ model = load_model('../Desktop/classifier.pt')
 * Then, uncomment following lines in 'blindness.py'   
 ```#from send_sms import *```
 ```#send(value, classes)```   
-* Your messaging service should  start and also you now see Message_Id printed on your terminal.
+* Your messaging service should  start and also you now see Message_Id printed on your terminal.    
+
+
+[Note : You can use sample images in the folder [sampleimages](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/tree/master/sampleimages) which is taken from the original test dataset to test the system]
