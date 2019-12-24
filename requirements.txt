@@ -1,0 +1,13 @@
+matplotlib==3.0.2
+notebook==6.0.1
+numpy==1.16.4
+pandas==0.23.4
+Pillow==6.2.0
+python-dateutil==2.7.5
+python-decouple==3.1
+python-engineio==3.11.1
+python-slugify==3.0.4
+python-socketio==2.0.0
+scikit-learn==0.21.2
+torch==1.1.0
+torchvision==0.3.0
