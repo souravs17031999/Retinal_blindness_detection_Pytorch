@@ -29,7 +29,7 @@ connection = sk.connect(
 ```
 * Now, your DB server must be connected.   
 * Finally, you also want 'classifier.pt' file which contains model's dictionary required when it is to be loaded.    
-(since, it's a large file you can mail me if you want that file at this id : souravs_1999@rediffmail.com) and put that file in the same directory and then modify the path accordingly in the 'model.py' file.
+[Download here](https://www.kaggle.com/souravs17031999/blindness-detection-pretrained-weights-pytorch) and put that file in the same directory and then modify the path accordingly in the 'model.py' file.
 ```
 model = load_model('../Desktop/classifier.pt')
 
