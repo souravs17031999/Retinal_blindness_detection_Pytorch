@@ -120,7 +120,7 @@ def Signup():
 
 #-----------------------------------------------------------------------------------------
 
-
+# update user and password, database name all after creation of new database
 connection = sk.connect(
     host="localhost",
     user="root",
