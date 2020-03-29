@@ -6,7 +6,7 @@ Tip : Make sure to install [Numpy](https://pypi.org/project/numpy/), [Pandas](ht
 Grab a cup of coffee as these will take some time !   
 * [click here](https://support.hypernode.com/knowledgebase/use-heidisql/#Download_HeidiSQL) to start server in HeidiSQL and configure settings by setting username and password.    
 ## Get, set and go :    
-* Download complete Project files using following command from git bash:     
+* Download complete Project files using following command from git bash/ cmd (terminal):     
 ```
 git clone https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch   
 
