@@ -55,29 +55,32 @@ def LogIn():
 def OpenFile():
     username = box1.get()
     if y:
-        a = askopenfilename()
-        print(a)
-        value, classes = main(a)
-        messagebox.showinfo("your report", ("Predicted Label is ", value, "\nPredicted Class is ", classes))
+        try:
+            a = askopenfilename()
+            print(a)
+            value, classes = main(a)
+            messagebox.showinfo("your report", ("Predicted Label is ", value, "\nPredicted Class is ", classes))
 
-        query = 'UPDATE THEGREAT SET PREDICT = "%s" WHERE USERNAME = "%s"'%(value, username)
+            query = 'UPDATE THEGREAT SET PREDICT = "%s" WHERE USERNAME = "%s"'%(value, username)
 
-        sql.execute(query)
-        #print(query)
-        connection.commit()
+            sql.execute(query)
+            #print(query)
+            connection.commit()
 
-        #------********************Only use when required to send message
-        #send(value, classes)
-        #------*********************************************************
-        image = Image.open(a)
-        # plotting image
-        file = image.convert('RGB')
-        plt.imshow(np.array(file))
-        plt.title(f'your report is label : {value} class : {classes}')
-        plt.show()
-        #print(image)
-        print('Thanks for using the system !')
-        #fn, text = os.path.splitext(a) #fn stands for filename
+            #------********************Only use when required to send message
+            #send(value, classes)
+            #------*********************************************************
+            image = Image.open(a)
+            # plotting image
+            file = image.convert('RGB')
+            plt.imshow(np.array(file))
+            plt.title(f'your report is label : {value} class : {classes}')
+            plt.show()
+            #print(image)
+            print('Thanks for using the system !')
+            #fn, text = os.path.splitext(a) #fn stands for filename
+        except Exception as error:
+            print("File not selected ! Exiting..., Please try again")
 
 
     else:
@@ -120,11 +123,11 @@ def Signup():
 
 #-----------------------------------------------------------------------------------------
 
-# update user and password, database name all after creation of new database
+
 connection = sk.connect(
     host="localhost",
     user="root",
-    password="********",
+    password="SOURAVs99@",
     database="batch_db_new"
 )
 
