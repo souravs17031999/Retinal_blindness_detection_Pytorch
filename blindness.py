@@ -124,7 +124,7 @@ def Signup():
 connection = sk.connect(
     host="localhost",
     user="root",
-    password="SOURAVs99@",
+    password="********",
     database="batch_db_new"
 )
 
