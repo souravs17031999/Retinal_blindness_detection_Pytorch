@@ -51,6 +51,7 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
  Acheiving a level of privacy is also very important task in medical datasets so that there can be factor of trust established between different stakeholders using the system.   
  * Some ideas for concurrency control has to be implemented properly using some kind of locks defined in MySQL so that multiple users can use the system at the same time when deployed on web.
  (Otherwise, locally you can run the executable file multiple times to open and run the GUI and it works fine).      
+ * Reducing TYPE-II error (false negatives) as this metric is really useful in Healthcare domain.   
  
 # Navigating the project :  
 * [Check out the training code here](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/blob/master/training.ipynb)  
