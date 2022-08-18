@@ -1,5 +1,5 @@
 matplotlib==3.0.2
-notebook==6.4.10
+notebook==6.4.12
 numpy==1.22.0
 pandas==0.23.4
 Pillow>=7.1.0
