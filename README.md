@@ -1,8 +1,20 @@
 # Project Name : Retinal Blindness (Diabetic Retinopathy) detection   
 
 # Problem statement :    
-Diabetic Retinopathy is a disease with an increasing prevalence and the main cause of blindness among working-age population. The risk of severe vision loss can be significantly reduced by timely diagnosis and treatment. Systematic screening for DR has been identified as a cost-effective way to save health services resources. Automatic retinal image analysis is emerging as an important screening tool for early DR detection, which can reduce the workload associated to manual grading as well as save diagnosis costs and time. Many research efforts in the last years have been devoted to developing automated tools to help in the detection and evaluation of DR lesions.
+Diabetic Retinopathy is a disease with an increasing prevalence and the main cause of blindness among working-age population.  
+The risk of severe vision loss can be significantly reduced by timely diagnosis and treatment. Systematic screening for DR has been identified as a cost-effective way to save health services resources. Automatic retinal image analysis is emerging as an important screening tool for early DR detection, which can reduce the workload associated to manual grading as well as save diagnosis costs and time. Many research efforts in the last years have been devoted to developing automated tools to help in the detection and evaluation of DR lesions.
 We are interested in automating this predition using deep learning models.
+
+# Motivation : 
+Early detection through regular retinal screening can drastically reduce vision loss — yet, in many regions, access to skilled ophthalmologists remains limited.   
+This project aims to leverage deep learning to assist hospitals and diagnostic centers in detecting Diabetic Retinopathy from retinal fundus images.  
+Our motivation was to build an AI-driven, scalable, and cost-effective screening tool that can:  
+
+- Support ophthalmologists in identifying DR at an early stage.
+- Improve screening efficiency in under-resourced hospitals.
+- Enable large-scale, real-time retinal analysis through automation.
+
+By combining data-driven insights with medical imaging, the project demonstrates how AI can bridge the gap between healthcare accessibility and diagnostic accuracy, contributing toward the broader goal of preventing avoidable blindness.  
 
 # Dataset : [APOTS Kaggle Blindness dataset](https://www.kaggle.com/c/aptos2019-blindness-detection)      
 
