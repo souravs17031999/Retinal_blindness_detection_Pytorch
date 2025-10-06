@@ -14,8 +14,9 @@ Our motivation was to build an AI-driven, scalable, and cost-effective screening
 - Improve screening efficiency in under-resourced hospitals.
 - Enable large-scale, real-time retinal analysis through automation.
 
-By combining data-driven insights with medical imaging, the project demonstrates how AI can bridge the gap between healthcare accessibility and diagnostic accuracy, contributing toward the broader goal of preventing avoidable blindness.  
-**Note:** This project was inspired by the mission of Aravind Eye Hospital (India) and the Asia Pacific Tele-Ophthalmology Society (APTOS), which aim to bring AI-assisted screening to remote areas.
+By combining data-driven insights with medical imaging, the project demonstrates how AI can bridge the gap between healthcare accessibility and diagnostic accuracy, contributing toward the broader goal of preventing avoidable blindness.   
+
+**Note:** This project was inspired by the mission of _**Aravind Eye Hospital (India)**_ and the _**Asia Pacific Tele-Ophthalmology Society (APTOS)**_, which aim to bring AI-assisted screening to remote areas.
 
 
 # Dataset : [APOTS Kaggle Blindness dataset](https://www.kaggle.com/c/aptos2019-blindness-detection)      
