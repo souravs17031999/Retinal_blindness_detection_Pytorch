@@ -8,13 +8,15 @@ We are interested in automating this predition using deep learning models.
 # Motivation : 
 Early detection through regular retinal screening can drastically reduce vision loss — yet, in many regions, access to skilled ophthalmologists remains limited.   
 This project aims to leverage deep learning to assist hospitals and diagnostic centers in detecting Diabetic Retinopathy from retinal fundus images.  
-Our motivation was to build an AI-driven, scalable, and cost-effective screening tool that can:  
+Our motivation was to build an AI-driven, scalable, and cost-effective screening tool that can and by open-sourcing this work, the goal is to empower hospitals, clinics, and NGOs to:
 
 - Support ophthalmologists in identifying DR at an early stage.
 - Improve screening efficiency in under-resourced hospitals.
 - Enable large-scale, real-time retinal analysis through automation.
 
 By combining data-driven insights with medical imaging, the project demonstrates how AI can bridge the gap between healthcare accessibility and diagnostic accuracy, contributing toward the broader goal of preventing avoidable blindness.  
+**Note:** This project was inspired by the mission of Aravind Eye Hospital (India) and the Asia Pacific Tele-Ophthalmology Society (APTOS), which aim to bring AI-assisted screening to remote areas.
+
 
 # Dataset : [APOTS Kaggle Blindness dataset](https://www.kaggle.com/c/aptos2019-blindness-detection)      
 
